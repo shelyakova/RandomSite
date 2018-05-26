@@ -1,0 +1,75 @@
+h1 {
+	color: #dcb500;
+}
+
+h2 {
+	color: #dcb500;
+}
+
+h3 {
+	color: #434343;
+}
+
+header {
+	width: 600px;
+	background: white;
+	padding: 15px;
+}
+
+main {
+	width: 600px;
+	background: white;
+	padding: 15px;
+}
+
+footer {
+	width: 600px;
+	background: white;
+}
+
+.image {
+	float: left;
+    margin: 15px 25px 15px 15px;
+}
+
+body {
+	background-image: url(fon.jpg);
+	/*background: #6e6e6e;*/
+}
+
+#korpus {
+	width: 630px;
+	height: 720px;
+	background: white;
+	margin: 20px;
+	float: left;
+}
+
+#image {
+	top: 500px;
+	left: 500px;
+}
+
+hr {
+	border: none;
+    background-color: #6e6e6e; 
+    color: #6e6e6e;
+    height: 2px;
+}
+
+#right {
+	width: 200px;
+	height: 250px;
+	padding: 15px;
+	float: top;
+	margin: 20px;
+	background: white;
+}
+
+#forma {
+	background: white;
+	width: 200px;
+	height: 300px;
+	margin: 20px;
+	padding: 15px;
+}
